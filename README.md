@@ -6,7 +6,7 @@ This is my professional portfolio website, designed to showcase my skills and pr
 To present an honest and professional overview of my technical journey, demonstrating my readiness for a Web Development Internship.
 
 ## 🚀 Live Website
-[Link to your GitHub Pages deployment will go here]
+[https://Kevin-Phon.github.io/portfolio/](https://Kevin-Phon.github.io/portfolio/)
 
 ## ✨ Key Features
 - **Mobile-First Responsive Design**: Optimized for all screen sizes using CSS Grid and Flexbox.
