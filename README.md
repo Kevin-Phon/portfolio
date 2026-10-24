@@ -3,7 +3,7 @@
 This is my professional portfolio website, designed to showcase my skills and projects as a Computer Science student at Cal Poly Pomona. The site is built with a focus on **performance**, **accessibility**, and **clean code**, using only vanilla web technologies.
 
 ## 🎯 Objective
-To present an honest and professional overview of my technical journey, demonstrating my readiness for a Web Development Internship.
+To present an honest overview of my technical journey, student projects, and interests in software engineering and artificial intelligence as I pursue internship opportunities.
 
 ## 🚀 Live Website
 [https://Kevin-Phon.github.io/portfolio/](https://Kevin-Phon.github.io/portfolio/)
