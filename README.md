@@ -16,7 +16,10 @@ I built the site with help from AI tools and am updating the wording to reflect 
 ## Projects currently featured
 
 - **[FocusFlow Study Dashboard](https://github.com/Kevin-Phon/focusflow-dashboard):** a personal learning project with a Pomodoro timer, a task list, and browser storage.
-- **GAZE:** a student team project exploring attention-gated gesture control for physical devices.
+- **[SideQuest](https://github.com/Kevin-Phon/bronco-minihacks-2026):** an AI-powered local exploration app built with a four-person hackathon team; my main contribution was AI and backend integration.
+- **GAZE (in progress):** a student team project exploring attention-gated gesture control for physical devices.
+- **VYUH LI (in progress):** a learning-intelligence platform with guided student support and teacher insights.
+- **DSML (in progress):** a collaborative data science and machine learning project using movie data.
 
 The portfolio is a place to follow my progress. Project descriptions should distinguish my own work from team contributions and make clear when work is still in progress.
 
