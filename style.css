@@ -316,7 +316,7 @@ ul {
 /* Projects Section */
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
     gap: 32px;
 }
 
@@ -326,6 +326,16 @@ ul {
     border-radius: var(--radius);
     overflow: hidden;
     transition: var(--transition);
+}
+
+.project-card-link {
+    display: block;
+    color: inherit;
+}
+
+.project-card-link:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 4px;
 }
 
 .project-card:hover {
